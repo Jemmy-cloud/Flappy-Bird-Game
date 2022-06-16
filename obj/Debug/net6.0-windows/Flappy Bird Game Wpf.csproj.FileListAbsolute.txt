@@ -1,0 +1,21 @@
+C:\Demos\Flappy Bird Game Wpf\bin\Debug\net6.0-windows\Flappy Bird Game Wpf.exe
+C:\Demos\Flappy Bird Game Wpf\bin\Debug\net6.0-windows\Flappy Bird Game Wpf.deps.json
+C:\Demos\Flappy Bird Game Wpf\bin\Debug\net6.0-windows\Flappy Bird Game Wpf.runtimeconfig.json
+C:\Demos\Flappy Bird Game Wpf\bin\Debug\net6.0-windows\Flappy Bird Game Wpf.dll
+C:\Demos\Flappy Bird Game Wpf\bin\Debug\net6.0-windows\Flappy Bird Game Wpf.pdb
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.csproj.AssemblyReference.cache
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf_MarkupCompile.cache
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf_MarkupCompile.lref
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.g.resources
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.AssemblyInfoInputs.cache
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.AssemblyInfo.cs
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.csproj.CoreCompileInputs.cache
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.dll
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\refint\Flappy Bird Game Wpf.dll
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.pdb
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\Flappy Bird Game Wpf.genruntimeconfig.cache
+C:\Demos\Flappy Bird Game Wpf\obj\Debug\net6.0-windows\ref\Flappy Bird Game Wpf.dll
